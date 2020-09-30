@@ -1,3 +1,9 @@
+final int ROWS = 20;
+final int COLS = 10;
+
+//Todos los valores son 0
+int [][] tableau = new int[ROWS][COLS];
+
 int Rotation;
 
 void setup() {
@@ -6,7 +12,7 @@ void setup() {
 
 void draw() {
   background(125);
-  drawZ();
+  drawI();
 }
 
 
