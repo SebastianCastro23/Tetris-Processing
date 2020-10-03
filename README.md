@@ -1,5 +1,5 @@
 # Proyecto Final
 
-<p align="left"><img src="escudoUnal_black.png" width="50%"></p>
+<p align="right"><img src="escudoUnal_black.png" width="25%"></p>
 ___
 
