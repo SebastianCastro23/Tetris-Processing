@@ -2,7 +2,7 @@
 
 # Proyecto Tetris en Processing
 ## Juan Sebastián Castro Pardo
-
-
 ___
+
+### 1. Introducción
 
