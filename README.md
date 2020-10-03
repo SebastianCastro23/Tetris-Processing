@@ -13,6 +13,6 @@ Distintos tetrominós, figuras geométricas compuestas por cuatro bloques cuadra
 
 <p align="center"><img src="Tetrominoes_IJLO_STZ_Worlds.svg" width="25%"></p>
 
-<p align="center"><hola></p>
+<p align="center"><text="hola"></p>
 
 
