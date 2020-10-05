@@ -23,3 +23,8 @@ La idea que seguí para la estructuración el código fue manejar dos matrices d
 La versión actual del programa es capaz de generar fichas aleatorias, posicionarlas en el fondo del tablero, apilarlas y eliminar una fila cuando esta esté completa. En el futuro se quiere añadir las funciones de reconocer los límites laterales del tablero, que cada ficha tenga su propio color distintivo y que el juego termine cuando el tablero se llene hasta el tope, finalizando con la entrega del respectivo puntaje.
 
 <p align="center"><img src="Captura.PNG" width="35%"></p>
+
+### 3. Referencias
+
+- [Processing](https://processing.org/)
+- [Tetris(Wikipedia)](https://es.wikipedia.org/wiki/Tetris)
